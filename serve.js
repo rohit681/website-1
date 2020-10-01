@@ -8,7 +8,7 @@ var isGulp = process.argv[2] === "--gulp";
 
 app.use(express.static("build"));
 
-var port = 0;
+var port = 80;
 var host = "127.0.0.1";
 var server = http.createServer(app);
 server.listen(port, host);
