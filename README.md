@@ -23,5 +23,7 @@ In oder to set up the local web-server for the website run
 
 `npm start`
 
-Then you can access the website on [http://localhost:80/](http://localhost/)
-/* just type localhost in your url */
+Then you can access the website on [http://localhost](http://localhost)
+
+
+just type localhost in your chorme url 
